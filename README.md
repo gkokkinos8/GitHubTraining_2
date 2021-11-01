@@ -2,4 +2,4 @@
 Training my self
 
 ##
-Thank yoy!!!
+Thank you!!!
