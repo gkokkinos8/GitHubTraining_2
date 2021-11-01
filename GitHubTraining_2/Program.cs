@@ -6,7 +6,7 @@ namespace GitHubTraining_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Giorgos, Hello World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
